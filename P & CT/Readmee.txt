@@ -1,3 +1,6 @@
+
+20marks
+***************************************************************
 Quiz 1 (2-Aug)
 Trolley Problem Converted from Hourly
 
@@ -7,15 +10,16 @@ Philosophy in grooves
 
 Assigment 1 (9-Aug)
 Topic: Crtical Thinking
+Assigment 2 (22-Aug)
+LIFE PURPOSE WORKSHEET ASSIGNMENT (22-Aug)
 
 
 Class Activity
 1. Worksheet Test: Branches of philosophy (15-Aug)
 2. Part C: Life Purpose (22-Aug)
-3. LIFE PURPOSE WORKSHEET ASSIGNMENT (22-Aug)
 
 
-
+******************************************************************
 Hourly 1 (9-Aug) ===========10marks
 Hourly 2 (23-Aug) ==========15marks
 
