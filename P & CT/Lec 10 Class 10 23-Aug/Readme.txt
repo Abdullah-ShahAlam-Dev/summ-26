@@ -1,0 +1,1 @@
+just hourly 2 no study
