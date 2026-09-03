@@ -1,3 +1,5 @@
+# GEminie ne DIrectv GA ka cde deya wihtotu refeerenec eagr complexd hi tw skip kr sktein isko
+
 import random
 
 graph = {
